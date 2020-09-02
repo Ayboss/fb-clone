@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a2e4a51.chunk.css",
+    "main.js": "/static/js/main.700c6bd5.chunk.js",
+    "main.js.map": "/static/js/main.700c6bd5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f626648b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f626648b.js.map",
+    "static/js/2.10a18363.chunk.js": "/static/js/2.10a18363.chunk.js",
+    "static/js/2.10a18363.chunk.js.map": "/static/js/2.10a18363.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d21e5a593be2ba546336182a1e2cd624.js": "/precache-manifest.d21e5a593be2ba546336182a1e2cd624.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3a2e4a51.chunk.css.map": "/static/css/main.3a2e4a51.chunk.css.map",
+    "static/js/2.10a18363.chunk.js.LICENSE.txt": "/static/js/2.10a18363.chunk.js.LICENSE.txt",
+    "static/media/alhaja.webp": "/static/media/alhaja.dd1e92d4.webp",
+    "static/media/back-2.webp": "/static/media/back-2.8b0d666b.webp",
+    "static/media/back1.webp": "/static/media/back1.78f05c0e.webp",
+    "static/media/back3.webp": "/static/media/back3.eb2c3a0f.webp",
+    "static/media/back4.jpg": "/static/media/back4.df5ee2be.jpg",
+    "static/media/bunny.webp": "/static/media/bunny.8ca07905.webp",
+    "static/media/doggy.webp": "/static/media/doggy.5aa27add.webp",
+    "static/media/man.webp": "/static/media/man.a27b7961.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f626648b.js",
+    "static/js/2.10a18363.chunk.js",
+    "static/css/main.3a2e4a51.chunk.css",
+    "static/js/main.700c6bd5.chunk.js"
+  ]
+}
